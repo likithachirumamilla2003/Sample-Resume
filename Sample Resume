@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Chirumamilla Sai Likitha</h1>
+    <h2>Guntur 522002 Mail:likhithachirumamilla2003@gmail.com</h2><hr/>
+    <h3>Objective</h3>
+    <h4>Passionate Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learn
+        ing, seeking an internship to apply my technical skills in AI/ML, Python, and web development to solve real-world
+         problems and contribute to innovative solutions.</h4><hr/>
+    <h3>Education:</h3>
+    <h4>B.Tech-Chebrolu Engineering college</h4>
+    <h4>Narayana Junior College</h4>
+    <h4>NTR High School</h4><hr/>
+    <h3>Internships:</h3>
+    <ul>
+    <li><h4>Oasis Infobyte</h4></li>
+    <p> Developed and optimized Python projects including a weather app, random password generator, and BMI
+        calculator.<br/>
+        Gained hands-on experience in Python development and optimization</p>
+    <li><h4>Code Clause</h4></li>
+    <p> Analyzed complex image data to enhance image processing models.<br/>
+        Debugged and optimized Python code for real-time image processing.<br/>
+        Conducted thorough testing to ensure accuracy and performance</p></ul><hr/>
+</ul>
+<h3> Skills</h3>
+    <li> Web Development: HTML, CSS, JavaScript</li>
+    <li>Tools and Technologies: SQL, VS Code</li>
+    <li>Soft Skills: Team collaboration, Problem-solving, Critical Thinking</li></ul></p><hr/>
+    <h3> certifications</h3>
+    <h3> Skills</h3>
+    <li> Artificial Intelligence intern at Codecaluse</li>
+    <li>Python Intern at Oasis Infobyte</li>
+    <li>Big Data Computing- NPTEL</li></ul></p><hr/>
+<h3>Mini Projects</h3>
+<h4>Personal Portfolio Website</h4>
+<p> <ul><li>Developed a portfolio website showcasing academic achievements, internships, certifications, and projects using
+HTML, CSS, and JavaScript</li>
+<li>Implemented responsive design for cross-device compatibility.</li></ul></p>
+<h4>Random Password Generator</h4>
+<p>Created a Python tool that generates secure random passwords based on user-specified criteria.</p><hr/>
+<h3>Declaration</h3>
+<p> I hereby declare that the information furnished above is true to the best of my knowledge.</p>
+</body>
+</html>
